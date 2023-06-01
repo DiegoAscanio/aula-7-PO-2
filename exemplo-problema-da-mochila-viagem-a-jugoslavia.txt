@@ -1,0 +1,25 @@
+Você foi fazer uma viagem à Jugoslávia e fascinado com as belezas naturais, diversidade cultural de um povo multiétnico, multireligioso e poliglota resolve trazer algumas das preciosidades locais para revender no brasil com boa margem de lucro.
+
+Desta forma, são procurados produtos culinários tradicionais, souvenirs, peças de roupa, artesanato, dentre outros.
+
+Em relação às comidas e bebidas típicas,
+-uma garrafa de Rakija (bebida destilada) te oferece um lucro de R$180,00 e pesa 750g.
+-um pote de Slatko (compota de frutas) te faz lucrar R$105,00 e pesa 300g.
+-uma unidade de pão Đevrek te faz lucrar R$ 9,00 e pesa 100g.
+-uma unidade de pão Pogača (similar a focaccia) te faz lucrar 13,00 e pesa 75g.
+
+Em relação a souvenirs, peças de roupa e artesanato:
+-uma pequena estatueta de latão do marechal Josip Bros Tito vale R$75,00 e pesa 125g.
+-uma camisa do estrela vermelha de belgrado vale R$400,00 e pesa 485g.
+-uma camisa do partizan belgrado também vale R$400,00, mas, pesa apenas 435g.
+-uma miniatura do Marakana (estádio Rajko Mitic) vale R$ 65,00 e pesa 75g.
+um pacote com 200 adesivos sortidos do lendário herói nacional Miloš Obilić vale R$100,00 e pesa 40g.
+
+Considerando que:
+
+1. Nenhum dos itens pode ser fracionado (para não ocorrer desvalorização).
+2. Você já tem apalavrada uma venda de três garrafas de Rakija e 4 potes de Slatko.
+3. As autoridades brasileiras limitam o ingresso de produtos da Jugoslávia, não permitindo transporte de nada que ultrapasse 10kg.
+
+1. Modele o problema acima como um problema da mochila.
+2. Resolva o problema acima como um problema da mochila, usando o solver de numeros inteiros do google or tools. A resolução deve apresentar as quantidades de cada produto a serem compradas e o valor máximo a ser obtido considerando as restrições impostas.

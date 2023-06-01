@@ -1,0 +1,26 @@
+Ao viajar de Minas para São Paulo, seus amigos paulistas sempre lhe pedem para vender delícias de nossa terra para eles.
+
+Você tem de ir a São Paulo uma vez a cada quinzena para uma reunião de seu empregador, retornando para Belo Horizonte no mesmo dia. Por isso, o empregador não paga despacho de bagagens e devido as taxas de despacho de bagagem serem lesivas ao consumidor, não é possível despachar malas, sendo sua carga máxima restrita a bagagem de mão - 10 kg.
+
+Considerando que você tem de levar seu notebook corporativo para a reunião (2kg), bem como, que:
+
+- 1 lata de doce de leite de viçosa 400g vale R$ 40,00
+- 1 garrafa de cachaça Vale Verde (que pesa 750g) vale R$ 80,00
+- 1 queijo canastra são roque 1kg vale R$ 65,00
+- 1 queijo do serro Juá 450g vale R$ 79,90
+
+Que seus amigos sempre lhe pedem ao menos:
+
+- 2 latas de doce de leite
+- 3 garrafas de cachaça
+- 1 queijo canastra são roque
+- 1 queijo do serro Juá
+
+Que seu fornecedor possui no máximo:
+
+- 20 latas de doce de leite
+- 30 garrafas de cachaça
+- 10 queijos canastra São Roque
+- 5 queijos do serro Juá
+
+E que os itens não podem ser fracionados para não desvalorizarem, resolva este problema através do problema da mochila pelo solver OR tools do google, especificando o valor máximo que você consegue obter, bem como, a quantidade de produtos que permite alcançar tal valor. 
